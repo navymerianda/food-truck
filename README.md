@@ -19,7 +19,7 @@ Installation Requirements:
    -> Helps us make HTTP requests to external APIs.
 
 3. API usage restrictions:
-   -> Although, I have given out the APP_TOKEN in this case for your testing purposes. I would recommend having your own
+   -> Although, I have not given out the APP_TOKEN in this case. I would recommend having your own
       APP_TOKEN for using the API heavily.
 
 
