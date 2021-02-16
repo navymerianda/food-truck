@@ -1,0 +1,9 @@
+COLUMNS = applicant,location
+APP_TOKEN = SECRET_KEY
+NUM_RESULTS = 10
+BASE_URL = "http://data.sfgov.org/resource/jjew-r69b.json"
+HEADERS = NAME, LOCATION
+
+
+
+
